@@ -1,4 +1,5 @@
 import React from 'react';
+import './StyledComponent.css';
 
 const StyledComponent = () => (
     <div className="image">
@@ -7,3 +8,4 @@ const StyledComponent = () => (
 );
 
 export default StyledComponent;
+
